@@ -1,0 +1,14 @@
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\generators\ICFGGenerator.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\converters\Apk2JarConverter.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\converters\Jar2ApkConverter.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\FlowAnalysis.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\ApkFileScanner.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\generators\CFGGenerator.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\managers\FileManager.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\DynamicSlicer.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\managers\AVDManager.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\generators\CGGenerator.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\AVDController.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\LogBack.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\SourceSinkParser.java
+G:\Codes\UndergraduateThesis\LeakDetectCore\src\main\java\edu\njupt\flowanalysis\LeakFinder.java

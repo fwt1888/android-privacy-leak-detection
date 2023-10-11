@@ -1,0 +1,19 @@
+
+.root {
+    -fx-font-family: 'Times New Roman';
+}
+
+.button {
+    -fx-padding: 10px;
+    -fx-text-alignment: center;
+}
+
+.menu-button {
+    -fx-padding: 6px;
+    -fx-text-alignment: center;
+}
+
+
+
+
+

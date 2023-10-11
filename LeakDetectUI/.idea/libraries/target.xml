@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LeakDetectCore/target/LeakDetect-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LeakDetectCore/target/leakdetect-core-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LeakDetectCore/target/LeakDetectCore-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

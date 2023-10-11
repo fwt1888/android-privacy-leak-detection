@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SuSi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SuSi-develop/build/jar/SuSi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

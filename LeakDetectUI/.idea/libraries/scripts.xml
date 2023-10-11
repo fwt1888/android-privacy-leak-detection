@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scripts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LeakDetectCore/resources/scripts/SingleJUnitTestRunner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LeakDetectCore/resources/scripts/junit-4.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

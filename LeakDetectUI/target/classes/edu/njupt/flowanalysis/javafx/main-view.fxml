@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane prefHeight="400.0" prefWidth="600.0" stylesheets="@main-view.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.njupt.flowanalysis.javafx.MenuController">
+   <top>
+      <HBox prefHeight="50.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button text="FlowDroid配置" onAction="#showFlowDroidConfig">
+            </Button>
+            <Button text="Android模拟器" onAction="#androidEmulator">
+            </Button>
+            <Button text="SuSi模型训练" onAction="#trainModel">
+            </Button>
+            <Button text="隐私泄露检测" onAction="#leakFinder">
+            </Button>
+            <MenuButton text="历史结果">
+              <items>
+                <MenuItem mnemonicParsing="false" text="DroidBench" onAction="#historyDBData"/>
+                <MenuItem mnemonicParsing="false" text="TaintBench" onAction="#historyTBData"/>
+              </items>
+            </MenuButton>
+         </children></HBox>
+   </top>
+   <center>
+      <StackPane fx:id="stackPane" prefHeight="350.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+
+      </StackPane>
+   </center>
+</BorderPane>
